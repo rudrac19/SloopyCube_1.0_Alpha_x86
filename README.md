@@ -1,4 +1,4 @@
-# SloopyCube
+# SloopyCube 1.0
 Hi I have made a App called SloopyCube
 Click on this link to download SloopyCube :
 
